@@ -1,4 +1,4 @@
-Feature:kano code challenge
+Feature: kano code challenge
 
   Scenario: Add computer kit bundle to basket
     Given the user is in the kano home page
